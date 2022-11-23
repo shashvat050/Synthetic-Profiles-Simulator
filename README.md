@@ -1,4 +1,4 @@
-# A2I2---Project
+# A2I2---Synthetic-Profiles-Simulator
 
 ### Normal/Gaussian Distribution
 
